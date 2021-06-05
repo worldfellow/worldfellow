@@ -30,7 +30,6 @@ make sure you upload your latest resume . Also what to expect in your interview
 Any one programming language and any one database from the below list
 
 - [Java/C#] - OOPS,Constructs,Threading,Exception and Error handling,FileIO
-- [c#] - Markdown parser done right. Fast and easy to extend.
 - [C++] - OOPS,Standard Libraries,File IO,Write code based on question eg,create linklist or star pyramid etc. 
 - [Python] - OOPS,Syntax,Variable Types,Operators,Decision Making,loops,Functions,Modules,FileIO,Exceptions,Multithreading
 - [Database] - RDBMS,ER Diagrams
