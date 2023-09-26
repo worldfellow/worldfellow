@@ -1,7 +1,7 @@
 # Welcome to Edulab
 ## _We have everything ed-tech_
 
-[![N|Solid](https://edulab.in/wp-content/uploads/2021/04/cropped-cropped-cropped-Edulab-logo-transparent-e1617278406876.png)](https://edulab.in)
+[![N|Solid](	https://edulab.in/wp-content/uploads/2022/08/edulab-1.jpg)](https://edulab.in)
 
 
 
@@ -20,7 +20,10 @@ As being a startup we use most of the technologies :
 - Ruby on Rails
 - Python
 - Java for Android
-- Database etc list is exhaustive and endless.
+- Database etc list is exhaustive and endless
+- Redis
+- RabbitMQ
+- Sunbird
 
 
 ## Careers with us
